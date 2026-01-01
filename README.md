@@ -15,9 +15,9 @@ This project performs an in-depth analysis of e-commerce sales data using SQL. T
 - CSV Dataset (E-commerce Sales Data)
 
 ## Project Structure
-- **SQL/** → SQL queries for analysis  
-- **Dataset/** → Raw e-commerce sales data  
-- **Results/** → Insights derived from queries  
+- **SQL** → SQL queries for analysis  
+- **Dataset** → Raw e-commerce sales data  
+- **Results** → Insights derived from queries  
 
 ## SQL Concepts Used
 - SELECT, WHERE, GROUP BY, ORDER BY
