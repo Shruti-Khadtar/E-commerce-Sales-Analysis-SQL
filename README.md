@@ -33,7 +33,7 @@ This project performs an in-depth analysis of e-commerce sales data using SQL. T
 3. Open `E-commerceSalesAnalysis.sql`
 4. Execute queries step by step to view results
 
-## Key Insights (Sample)
+## Key Insights
 - Identified top revenue-generating products
 - Found peak sales months
 - Analyzed repeat customer behavior
